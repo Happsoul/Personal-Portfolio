@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(15, 92, 49);
+    text-align:center;
+    color:rgb(224, 205, 96);
+}
+
+form {
+    margin: auto;
+    width:50%;
+    text-align:left;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+input {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.input-element {
+    display: flex;
+    flex-direction:column;
+    margin:10px;
+}
+select {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
